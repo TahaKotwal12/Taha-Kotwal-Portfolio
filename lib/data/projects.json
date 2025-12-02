@@ -1,0 +1,262 @@
+[
+    {
+        "id": "pullguardian",
+        "slug": "pullguardian",
+        "title": "PullGuardian",
+        "shortDescription": "AI-powered code review and security audit tool",
+        "description": "PullGuardian is an open-source, AI-powered platform designed to automate and elevate code quality and security audits. It seamlessly integrates into GitHub/GitLab workflows and CI/CD pipelines to catch issues before they hit production.",
+        "role": "Solo",
+        "category": "AI/ML",
+        "featured": true,
+        "techStack": [
+            "Python",
+            "FastAPI",
+            "CodeQL",
+            "OpenAI",
+            "CodeBERT",
+            "React",
+            "TailwindCSS",
+            "PostgreSQL",
+            "ClickHouse",
+            "Docker"
+        ],
+        "achievements": [
+            "Multi-language support (Python, Java, JS, Go)",
+            "AI-driven code smell detection and bad-practice spotting",
+            "Static security analysis with secret scanning",
+            "GitHub/GitLab PR integration with automated comments"
+        ],
+        "whyItMatters": "Helps development teams catch security vulnerabilities and code quality issues before they reach production, saving time and reducing risk.",
+        "github": "https://github.com/TahaKotwal12/PullGuardian",
+        "liveDemo": null,
+        "images": []
+    },
+    {
+        "id": "oneqlick",
+        "slug": "oneqlick",
+        "title": "oneQlick",
+        "shortDescription": "Production-ready food delivery platform for rural areas",
+        "description": "A comprehensive food delivery ecosystem designed specifically for rural areas, featuring separate user and partner mobile apps built with React Native (Expo) and a robust FastAPI backend with PostgreSQL database. Includes a dedicated search service for optimized food discovery.",
+        "role": "Lead",
+        "category": "Full Stack",
+        "featured": true,
+        "techStack": [
+            "React Native",
+            "Expo",
+            "TypeScript",
+            "FastAPI",
+            "Python",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "achievements": [
+            "Built complete microservices architecture with separate user, partner, and search services",
+            "Implemented real-time order tracking and notifications",
+            "Optimized search functionality for fast food discovery",
+            "Designed scalable backend handling concurrent orders"
+        ],
+        "whyItMatters": "Bridges the gap in food delivery services for rural communities, providing economic opportunities for local restaurants and convenience for customers.",
+        "github": "https://github.com/TahaKotwal12/oneqlick",
+        "liveDemo": null,
+        "images": [],
+        "relatedRepos": [
+            "https://github.com/TahaKotwal12/oneqlick-backend",
+            "https://github.com/TahaKotwal12/oneqlick-search-service"
+        ]
+    },
+    {
+        "id": "internal-hire",
+        "slug": "internal-hire",
+        "title": "Internal Hire - Expertise Locator",
+        "shortDescription": "AI-powered employee expertise matching using vector search",
+        "description": "An AI vector-search based web application built with Streamlit that enables organizations to efficiently search for colleagues with specific expertise based on their resumes. Uses TiDB Vector Database, LangChain, and Google AI for intelligent matching and chat-based interactions with search results.",
+        "role": "Solo",
+        "category": "AI/ML",
+        "featured": true,
+        "techStack": [
+            "Python",
+            "Streamlit",
+            "TiDB Vector DB",
+            "LangChain",
+            "Google AI",
+            "PyPDF2",
+            "Plotly",
+            "Docker"
+        ],
+        "achievements": [
+            "Implemented vector embeddings for semantic resume search",
+            "Built interactive dashboard with HR metrics and charts",
+            "Enabled chat-based interaction with search results",
+            "Automated resume processing and storage pipeline"
+        ],
+        "whyItMatters": "Facilitates internal talent discovery and mentorship matching, helping organizations leverage existing expertise and reduce external hiring costs.",
+        "github": "https://github.com/TahaKotwal12/Internal-Hire",
+        "liveDemo": null,
+        "images": []
+    },
+    {
+        "id": "expertise-locator",
+        "slug": "expertise-locator",
+        "title": "Expertise Locator",
+        "shortDescription": "Flask-based employee skills search platform",
+        "description": "A web-based application that allows organizations to efficiently search for colleagues with specific expertise based on their resumes. Built with Flask and TiDB, featuring TF-IDF vectorization and cosine similarity for accurate skill matching.",
+        "role": "Solo",
+        "category": "Full Stack",
+        "featured": false,
+        "techStack": [
+            "Python",
+            "Flask",
+            "PyPDF2",
+            "python-docx",
+            "scikit-learn",
+            "PyMySQL",
+            "TiDB"
+        ],
+        "achievements": [
+            "Supports PDF and DOCX resume uploads",
+            "TF-IDF vectorization for efficient text search",
+            "Secure TiDB database integration with SSL",
+            "Real-time similarity scoring for expertise matching"
+        ],
+        "whyItMatters": "Provides a lightweight solution for knowledge sharing and expertise discovery within organizations.",
+        "github": "https://github.com/TahaKotwal12/expertise_locator",
+        "liveDemo": "https://expertise-locator.vercel.app",
+        "images": []
+    },
+    {
+        "id": "247-gym",
+        "slug": "247-gym",
+        "title": "24/7 Gym",
+        "shortDescription": "Modern gym website with TypeScript and React",
+        "description": "A responsive and modern gym website built with TypeScript and React, featuring membership plans, class schedules, trainer profiles, and online booking functionality.",
+        "role": "Solo",
+        "category": "Frontend",
+        "featured": false,
+        "techStack": [
+            "TypeScript",
+            "React",
+            "CSS",
+            "Vercel"
+        ],
+        "achievements": [
+            "Fully responsive design for all devices",
+            "Interactive class schedule and booking system",
+            "Modern UI with smooth animations",
+            "Fast deployment on Vercel"
+        ],
+        "whyItMatters": "Demonstrates proficiency in modern frontend development with TypeScript and React best practices.",
+        "github": "https://github.com/TahaKotwal12/247-gym",
+        "liveDemo": "https://247-gym.vercel.app",
+        "images": []
+    },
+    {
+        "id": "the-den-gym",
+        "slug": "the-den-gym",
+        "title": "The Den Gym",
+        "shortDescription": "Premium gym landing page with TypeScript",
+        "description": "A sleek and professional gym landing page showcasing premium fitness facilities, personal training services, and membership options. Built with modern web technologies for optimal performance.",
+        "role": "Solo",
+        "category": "Frontend",
+        "featured": false,
+        "techStack": [
+            "TypeScript",
+            "React",
+            "CSS",
+            "Vercel"
+        ],
+        "achievements": [
+            "Premium design with attention to detail",
+            "Optimized images and assets for fast loading",
+            "SEO-friendly structure",
+            "Mobile-first responsive design"
+        ],
+        "whyItMatters": "Showcases ability to create visually appealing, conversion-focused landing pages.",
+        "github": "https://github.com/TahaKotwal12/The-Den-Gym",
+        "liveDemo": "https://the-den-gym.vercel.app",
+        "images": []
+    },
+    {
+        "id": "hireme-mailer",
+        "slug": "hireme-mailer",
+        "title": "HireMe Mailer",
+        "shortDescription": "Automated bulk email service for job applications",
+        "description": "A Python-based automation tool for sending personalized bulk emails to potential employers. Features template customization, attachment support, and delivery tracking.",
+        "role": "Solo",
+        "category": "Automation",
+        "featured": false,
+        "techStack": [
+            "Python",
+            "SMTP",
+            "Email Templates"
+        ],
+        "achievements": [
+            "Automated email sending with personalization",
+            "Support for attachments (resume, cover letter)",
+            "Template-based email generation",
+            "Delivery status tracking"
+        ],
+        "whyItMatters": "Streamlines the job application process, saving time for job seekers while maintaining personalization.",
+        "github": "https://github.com/TahaKotwal12/hireme-mailer",
+        "liveDemo": null,
+        "images": []
+    },
+    {
+        "id": "ensights",
+        "slug": "ensights",
+        "title": "Ensights - Product Analytics SaaS",
+        "shortDescription": "Custom analytics platform inspired by PostHog",
+        "description": "A product analytics SaaS tool designed to track user behavior and provide actionable insights. Built with FastAPI backend for event logging, session analysis, and real-time dashboards. Inspired by PostHog's architecture but customized for specific business needs.",
+        "role": "Lead",
+        "category": "Full Stack",
+        "featured": true,
+        "techStack": [
+            "FastAPI",
+            "Python",
+            "React",
+            "TypeScript",
+            "PostgreSQL",
+            "Redis",
+            "ClickHouse"
+        ],
+        "achievements": [
+            "Real-time event tracking and session logging",
+            "Custom dashboard for product teams",
+            "Session replay and user journey analysis",
+            "High-performance data pipeline with ClickHouse"
+        ],
+        "whyItMatters": "Provides product teams with deep insights into user behavior, enabling data-driven decision making and product improvements.",
+        "github": null,
+        "liveDemo": null,
+        "images": [],
+        "note": "Internal company project - code not publicly available"
+    },
+    {
+        "id": "encatch",
+        "slug": "encatch",
+        "title": "Encatch - Feedback Form Engine",
+        "shortDescription": "360° employee feedback and performance review platform",
+        "description": "An internal tool to manage performance reviews and gather 360-degree feedback. Migrated from Spring Boot to FastAPI for improved performance and scalability. Features secure REST APIs for feedback workflows, user roles, and analytics.",
+        "role": "Lead",
+        "category": "Full Stack",
+        "featured": true,
+        "techStack": [
+            "FastAPI",
+            "Python",
+            "React",
+            "TypeScript",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "achievements": [
+            "Migrated backend from Spring Boot to FastAPI, improving response times by 40%",
+            "Implemented role-based access control for feedback workflows",
+            "Built analytics dashboard for HR insights",
+            "Automated feedback collection and reminder system"
+        ],
+        "whyItMatters": "Streamlines performance review processes and provides valuable insights for employee development and organizational growth.",
+        "github": null,
+        "liveDemo": null,
+        "images": [],
+        "note": "Internal company project - code not publicly available"
+    }
+]

@@ -1,0 +1,130 @@
+{
+    "personalInfo": {
+        "name": "Taha Kotwal",
+        "title": "Full Stack Developer",
+        "tagline": "FastAPI • Spring Boot • React • AI",
+        "location": "Pune, India",
+        "openTo": "UAE",
+        "email": "tahakotwal54@gmail.com",
+        "phone": "+91 7219342962",
+        "linkedin": "https://linkedin.com/in/taha-kotwal-894b911b5",
+        "github": "https://github.com/TahaKotwal12",
+        "hackerrank": "https://hackerrank.com/tahakotwal54",
+        "medium": "https://medium.com/@tahakotwal54"
+    },
+    "summary": "Full Stack Developer with strong experience in building scalable, real-time applications using FastAPI, Spring Boot, and React. Proficient in microservices architecture, RESTful APIs, and cloud-based deployments (AWS/Linux). Recently worked with cross-functional product teams to develop a 360° feedback platform and a custom analytics tool inspired by PostHog, focusing on performance, scalability, and clean architecture. Adept at using AI/ML tools like OpenAI APIs (ChatGPT), LangChain, and TensorFlow for integrating smart features into applications, such as chatbots, content generation, and recommendation systems. Strong advocate for clean code, agile methodologies, and continuous learning. Passionate about exploring emerging technologies and delivering real-world solutions that make a difference.",
+    "education": [
+        {
+            "degree": "B.Tech in Cloud Technology and Information Security",
+            "institution": "Ajeenkya DY Patil University",
+            "period": "2020 – 2024"
+        },
+        {
+            "degree": "HSC 12th",
+            "institution": "Maharashtra Board",
+            "period": "2020"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Associate Software Engineer",
+            "company": "Cyber Manager Software Services",
+            "period": "Dec 2023 – Present",
+            "responsibilities": [
+                "Collaborated with cross-functional teams to develop scalable SaaS applications",
+                "Built and optimized backend services using FastAPI and Spring Boot WebFlux, following reactive programming and microservices principles",
+                "Developed modern UI components in React and TypeScript",
+                "Designed a custom analytics platform inspired by PostHog, implementing event tracking, session logging, and real-time dashboards",
+                "Contributed to a 360° employee feedback tool, handling backend architecture and API integrations",
+                "Integrated Redis caching for performance optimization",
+                "Leveraged OpenAI APIs and LangChain to build AI-powered features such as chatbots and content suggestions",
+                "Participated in code reviews, automated testing, and DevOps practices using Git, Linux, and CI/CD pipelines"
+            ]
+        },
+        {
+            "title": "Full Stack Developer Intern",
+            "company": "IEEE Bombay Section",
+            "period": "Dec 2022 – Feb 2023",
+            "responsibilities": [
+                "Team leader of the team working on a project to check website performance",
+                "Learned about team management and leadership skills",
+                "Technologies Used: Servlet, JavaScript, MySQL"
+            ]
+        }
+    ],
+    "skills": {
+        "languages": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "TypeScript",
+            "PHP",
+            "HTML",
+            "CSS"
+        ],
+        "frameworks": [
+            "FastAPI",
+            "Spring Boot",
+            "WebFlux",
+            "React",
+            ".NET",
+            "Streamlit",
+            "Svelte"
+        ],
+        "backend": [
+            "RESTful APIs",
+            "Microservices Architecture",
+            "Reactive Programming",
+            "Redis Caching",
+            "Authentication & Authorization"
+        ],
+        "frontend": [
+            "React",
+            "TypeScript",
+            "Bootstrap",
+            "Streamlit",
+            "Svelte"
+        ],
+        "databases": [
+            "PostgreSQL",
+            "MySQL",
+            "Redis"
+        ],
+        "devops": [
+            "Git",
+            "GitHub",
+            "Linux",
+            "CI/CD",
+            "Docker",
+            "AWS (EC2, S3)",
+            "Jira",
+            "Agile"
+        ],
+        "ai": [
+            "OpenAI API (ChatGPT)",
+            "LangChain",
+            "Hugging Face",
+            "TensorFlow",
+            "CSV Automation",
+            "Bulk Emailing"
+        ],
+        "soft": [
+            "Effective Communication",
+            "Team Leadership & Collaboration",
+            "Problem Solving & Critical Thinking",
+            "Time Management & Task Prioritization",
+            "Adaptability & Self-Learning",
+            "Cross-Cultural Communication",
+            "Ownership & Accountability"
+        ]
+    },
+    "certifications": [
+        "Java Basics – Programming Hub",
+        "AWS Essentials – Coursera",
+        "SQL – Tech Alpha Computer Institute",
+        "Full Stack Development – ICT Academy",
+        "Linux Fundamentals – Internal Training",
+        "Designing Relational Databases – Tech Alpha Institute",
+        "Java Programming – Great Learning"
+    ]
+}
